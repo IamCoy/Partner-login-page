@@ -121,6 +121,8 @@ h2 {
  color: rgb(255, 94, 0);
 }
 
+
+
 input {
     width: 22em;
     border: 0;
@@ -144,6 +146,7 @@ button {
     width: 22em;
     height:3em;
     border: none;
+    margin-bottom: 20px;
 }
 
 button.grey {
@@ -158,6 +161,11 @@ button.blue {
 
 button.green {
     background-color: rgb(67, 218, 75);
+}
+
+form a {
+    padding-left: 240px;
+    color: rgb(102, 102, 102);
 }
 
 
