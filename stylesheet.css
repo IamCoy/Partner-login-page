@@ -3,4 +3,23 @@ body{
     background-image: url(assets/pumpkin-background.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
+    height: 200vh;
+}
+
+header{
+    position: fixed;
+    background-color: whitesmoke;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
 }
