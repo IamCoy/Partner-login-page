@@ -147,6 +147,9 @@ button {
     height:3em;
     border: none;
     margin-bottom: 20px;
+    color: white;
+    font-weight: 600;
+    text-transform: uppercase;
 }
 
 button.grey {
